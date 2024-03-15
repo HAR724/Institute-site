@@ -1,0 +1,19 @@
+.body{
+    height: 100px;
+    position: sticky;
+    top: 0px;
+    z-index: 100;
+    background: white;
+}
+.ducat{
+    position: relative;
+    left: 200px;
+}
+ .ul{
+    position: relative;
+    left: 400px;
+}
+.li{
+    margin: 0px 20px;
+    font-size: 20px;
+} 

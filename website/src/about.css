@@ -1,0 +1,54 @@
+.ducatpic{
+    height: 300px;
+}
+.mission{
+    height: 250px;
+    width: 80%;
+    margin-top: 120px;
+    margin-left: 120px;
+   
+}
+.ourmission{
+    position: relative;
+    top: -70px;
+    left: 110px;
+}
+.missionp{
+    position: relative;
+    top: -70px;
+    left: 30px;
+}
+.vision{
+    height: 150px;
+    width: 80%;
+    margin-top: 100px;
+    margin-left: 120px;
+}
+.ourvision{
+    position: relative;
+    top: -70px;
+    left: 40px;
+}
+.visionp{
+    position: relative;
+    top: -70px;
+    left: 30px;
+}
+.parali{
+    margin: 20px 0px;
+}
+.whatducat{
+    height: 200px;
+    width: 80%;
+    margin-top: 100px;
+    margin-left: 120px;
+}
+.ourtrainul{
+list-style: none;
+}
+.career{
+    height: 350px;
+    width: 80%;
+    margin-top: 100px;
+    margin-left: 120px;
+}

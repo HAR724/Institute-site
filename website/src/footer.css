@@ -1,0 +1,65 @@
+.div{
+    height: 400px;
+    width: 100%;
+    background: rgb(24, 24, 82);
+    font-size: 25px;
+    color: white;
+    
+}
+.div2{
+    height: 150px;
+    width: 170px;
+    position: relative;
+    top: 50px;
+    left: 150px;
+    
+}
+.div3{
+    height: 150px;
+    width: 170px;
+ position: relative;
+    left: 350px;
+   top: -100px;
+
+}
+.ul4{
+    list-style: none;
+    position: relative;
+    top: 20px;
+    font-size: 20px;
+}
+.div4{
+    height: 150px;
+    width: 170px;
+    position: relative;
+    left: 550px;
+    top: -250px;
+    
+}
+.div5{
+    height: 150px;
+    width: 170px;
+    position: relative;
+    left: 750px;
+    top: -395px;
+}
+.div6{
+    height: 340px;
+    width: 500px;
+    position: relative;
+    left: 950px;
+    top: -545px;
+}
+.p{
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+}
+.div7{
+    height: 20px;
+    width: 700px;
+    position: relative;
+    left: 450px;
+    top: -600px;
+    font-size: 20px;
+}

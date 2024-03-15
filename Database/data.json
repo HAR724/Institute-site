@@ -1,0 +1,66 @@
+{
+  "home": [
+    {
+      "id": "c200",
+      "name": "yash",
+      "email": "yash@gmail.com",
+      "num": "1234567890",
+      "course": "python",
+      "branch": "delhi"
+    }
+  ],
+  "connect": [
+    {
+      "id": "5380",
+      "email": "harshsahu7926@gmail.com"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1f02",
+      "name": "harsh",
+      "email": "harshsahu7926@gmail.com",
+      "course": "java",
+      "branch": "Noida sector-63"
+    },
+    {
+      "id": "889e",
+      "name": "yash",
+      "email": "yash@gmail.com",
+      "course": ".net",
+      "branch": "South Delhi"
+    },
+    {
+      "id": "576f",
+      "name": "sameer",
+      "email": "sameer@gmail.com",
+      "course": "python",
+      "branch": "Noida sector-63"
+    }
+  ],
+  "certificate": [
+    {
+      "id": "a7f7",
+      "name": "harsh sahu",
+      "phn": "08226050101",
+      "email": "harshsahu7926@gmail.com",
+      "course": "java",
+      "center": "Noida sector-16",
+      "faculty": "mr harsh",
+      "ducatid": "9876",
+      "startm": "2023-02",
+      "endm": "2024-02"
+    }
+  ],
+  "contact": [
+    {
+      "id": "4f37",
+      "name": "yash",
+      "email": "yash@gmail.com",
+      "phn": "1234567890",
+      "course": "net",
+      "branch": "Delhi",
+      "mess": "ddcdcwdc"
+    }
+  ]
+}

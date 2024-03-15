@@ -1,0 +1,18 @@
+.logindiv{
+    height: 605px;
+    width: 100%;
+ 
+}
+.loginid{
+    width: 25%;
+    position: absolute;
+    top: 300px;
+    left: 600px;
+    box-shadow: 10px 10px 15px rgb(98, 211, 209);
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.sublog{
+    margin-left: 125px;
+}

@@ -1,0 +1,119 @@
+.contactname{
+    width: 44%;
+}
+.contactbranch{
+    width: 95%;
+}
+.divconemail{
+  
+    position: relative;
+    left: 470px;
+    top: -85px;
+}
+.divconnum{
+  
+    position: relative;
+    left: 20px;
+    top: -85px;
+}
+.divconcou{
+  
+    position: relative;
+    left: 470px;
+    top: -170px;
+}
+.divconbra{
+    
+    position: relative;
+    left: 20px;
+    top: -170px;
+}
+.divconmes{
+  
+    position: relative;
+    
+    top: -170px;
+    left: 20px;
+}
+.divconbtn{
+    position: relative;
+    
+    top: -170px;
+    left: 300px;
+}
+.divconbtn1{
+    width: 30%;
+}
+.divfrmcon{
+    height: 610px;
+   width: 60%;
+   border-radius: 20px;
+  
+   position: relative;
+   top: -300px;
+   left: 320px;
+   background: rgba(255, 255, 255, .7);
+   box-shadow: 8px 8px 10px rgb(40, 40, 103);
+}
+.h1con{
+    text-align: center;
+    color: rgb(69, 68, 164);
+}
+.btwcon{
+    text-align: center;
+}
+.divconname{
+    position: relative;
+    left: 20px;
+}
+.paracon{
+    text-align: center;
+}
+.ourbrah1{
+    text-align: center;
+}
+.bratit{
+    color: rgb(68, 68, 186);
+}
+.bracard{
+    background: rgb(206, 244, 255);
+    width: 70%;
+    height: 200px;
+}
+.bradiv{
+    width: 100%;
+    margin-top: -200px;
+}
+.inlinecard2{
+    margin-top: -200px;
+   margin-left: 790px;
+}
+.inlinecard1{
+    margin-top: 50px;
+    margin-left: 150px;
+    
+}
+.inlinecard3{
+    margin-top: 50px;
+    margin-left: 150px;
+}
+.inlinecard4{
+    margin-top: -200px;
+    margin-left: 790px;
+}
+.inlinecard5{
+    margin-top: 50px;
+    margin-left: 150px;
+}
+.inlinecard6{
+    margin-top: -200px;
+    margin-left: 790px;
+}
+.mapcon{
+    margin-left: 130px;
+    margin-top: 50px;
+}
+.mapcon1{
+    box-sizing: border-box;
+    padding-bottom: 20px;
+}

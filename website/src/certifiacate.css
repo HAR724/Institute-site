@@ -1,0 +1,127 @@
+.certificatediv{
+    height: 100px;
+    width: 60%;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+.certificatea{
+    text-decoration: none;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+    left: 300px;
+}
+.certificateb{
+    text-decoration: none;
+    color: grey;
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+    left: 400px;
+}
+.iframecerti{
+    border: 2px solid red;
+    height: 550px;
+    width: 60%;
+    margin-left: 300px;
+}
+.certificateinput{
+    height: 500px;
+    width: 40%;
+    margin-left: 480px;
+    
+    border-radius: 10px;
+    box-shadow: 8px 8px 10px grey;
+}
+.phone{
+width: 48%;
+
+}
+.email{
+    width: 48%;
+}
+.divemail{
+    position: relative;
+    left: 300px;
+    top:-69px;
+}
+.divCourse{
+position: relative;
+top: -69px;
+}
+.divcenter{
+    position: relative;
+    left: 300px;
+    top: -138px;
+}
+.divfacul{
+position: relative;
+top: -138px;
+}
+.divid{
+    position: relative;
+    top: -207px;
+    left: 300px;
+}
+.divstart{
+    position: relative;
+    top: -207px;
+
+}
+.divend{
+    position: relative;
+    top: -276px;
+    left: 300px;
+}
+.submitfrm{
+   
+    position: relative;
+    top: -242px;
+    left: 100px;
+
+}
+.submitf{
+    width: 70%;
+    
+}
+.divofcerti{
+    height: 530px;
+    width: 100%;
+}
+.applycerti{
+    color: rgb(12, 64, 127);
+    text-align: center;
+}
+.certificateoutput{
+    height: 100px;
+    width: 25%;
+    margin-left: 580px;
+    
+    border-radius: 10px;
+    box-shadow: 8px 8px 10px grey;
+}
+.ducatid{
+    width: 70%;
+    position: relative;
+    left: 60px;
+}
+.ducatsubmitbtn{
+   
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+.ducatsubmitbtn2{
+    width: 50%;
+    
+}
+.certificateveriout{
+    height: 200px;
+}
+.certificatea:hover{
+    color: rgb(50, 50, 155);
+}
+.certificateb:hover{
+    color: rgb(50, 50, 155);
+}

@@ -1,0 +1,70 @@
+.divbestplac{
+    height: 150px;
+    width: 100%;
+    background: rgb(10, 161, 175);
+    margin-top: 30px;
+}
+.bestplach1{
+    position: relative;
+    top: 20px;
+    left: 500px;
+}
+.bestplach3{
+    position: relative;
+    top: 20px;
+    left: 300px;
+}
+.cardplac{
+    height: 350px;
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 20px;
+    border: 1px solid rgb(50, 50, 140);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(65, 65, 195);
+
+}
+.cardfont{
+    color: rgb(94, 94, 236);
+}
+.cardimg{
+    border-radius: 10px 10px 0px 0px;
+}
+.bodycards{
+    position: relative;
+    left: 50px;
+}
+.cardsgrpdiv{
+    margin-left: 100px;
+
+
+}
+.h2plc{
+    height: 10px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    margin-left: 600px;
+    color: rgb(78, 78, 227);
+}
+.logoddiv{
+height: auto;
+width: 50%;
+margin-left: 400px;
+overflow: hidden;
+white-space: nowrap;
+margin-bottom: 40px;
+
+}
+.logosliderdiv{
+    
+    display: inline-block;
+    animation: 5s comp infinite linear;
+}
+@keyframes comp {
+    0%{transform: translateX(0);}
+    100%{transform: translateX(-100%);}
+    
+}
+.slideimgs{
+    margin-left: 20px;
+}

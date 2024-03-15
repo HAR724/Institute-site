@@ -1,0 +1,58 @@
+.javabac{
+    background: rgb(193, 236, 255);
+    height: 550px;
+    width: 100%;
+    
+}
+.formjava{
+    height: auto;
+    width: 29%;
+    margin-top: -180px;
+    margin-left: 900px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 10px rgb(49, 116, 148);
+    background: white;
+
+}
+.enquire{
+    background: rgb(4, 151, 181);
+    box-sizing: border-box;
+    padding: 10px 10px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px 10px 0px 0px;
+}
+.inputfrm{
+    width: 400px;
+    margin: 20px 10px;
+}
+.javaimg{
+    height: auto;
+    width: 20%;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.javafont{
+    height: auto;
+    width: 30%;
+    font-size: 40px;
+    position: relative;
+    left: 200px;
+    top: 40px;
+}
+.star{
+    height: auto;
+    width: 30%;
+    position: relative;
+    top: 45px;
+    left: 110px;
+}
+.javatxt{
+    height: auto;
+    width: 60%;
+    position: relative;
+    top: 50px;
+    left: 110px;
+}

@@ -1,0 +1,189 @@
+
+.data2{
+    height: 504px;
+    width: 100%;
+    color: black;
+}
+.data3{
+    background: rgb(3, 158, 193);
+    height: 90px;
+    width: 100%;
+    color: white;
+}
+.data4{
+    background:rgb(11, 84, 158);
+    height: 90px;
+    width: 100%;
+}
+.ul2{
+    list-style: none;
+    margin-left: 150px;
+  
+  
+}
+.li2{
+    display: inline;
+    font-size: 20px;
+    margin:20px;
+    position: relative;
+    top: 30px;
+
+}
+.ul3{
+    list-style: none;
+    margin-left: 20px;
+}
+.selectk{
+    width: 50px;
+}
+.li3{
+   
+    display: inline;
+    
+    margin:20px;
+    position: relative;
+    top: 30px;
+}
+.input{
+    height: 35px;
+    width: 15%;
+    font-size: 15px;
+}
+.h2{
+    text-align: center;
+    margin-top: 70px;
+}
+.p2{
+    text-align: center;
+    color: rgb(69, 59, 59);
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+}
+.logo{
+    height: 180px;
+    width: 50%;
+    padding: 40px 0px;
+    position: relative;
+    left: 400px;
+    overflow: hidden;
+    background: white;
+    white-space: nowrap;
+    
+}
+.logoslider{
+    display: inline-block;
+    margin: 0px 40px;
+    
+    animation: 10s slide infinite linear;
+}
+.imglogo{
+    margin: 0px 40px ;
+}
+@keyframes slide {
+from{
+    transform: translateX(0);
+}
+to{
+    transform: translateX(-100%);
+}
+    
+}
+.logo:hover .logoslider{
+    animation-play-state: paused;
+}
+.div8{
+    background: rgb(173, 170, 170);
+
+
+}
+.h1happy{
+    color: rgb(47, 39, 198);
+    font-size: 35px;
+}
+.pseveral{
+    font-size: 18px;
+}
+.div9{
+    height: 200px;
+    width: 380px;
+    position: relative;
+    top: 50px;
+    left: 570px;
+}
+
+.cardwidth{
+    height: 400px;
+    width: 350px;
+    display: inline-block;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  margin: 20px 40px;
+  box-shadow: 10px 10px 20px rgb(246, 213, 48);
+  border-radius: 10px;
+    
+}
+.cardimg{
+    height: 200px;
+  width: 350px;
+  
+}
+.div10{
+    margin-top: 70px;
+    margin-left: 100px;
+}
+.div11{
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+.widthcard{
+    height:320px ;
+    width: 350px;
+    display: inline-block;
+    margin: 10px 20px;
+    overflow: hidden;
+    
+ 
+  
+}
+.cardsdiv{
+    height: 400px;
+    width: 60%;
+    overflow: hidden;
+   white-space: nowrap;
+   background: white;
+   margin-left: 300px;
+   
+   
+}
+
+.cardslider{
+    
+    display: inline-block;
+   animation:  10s slider infinite linear;
+}
+
+@keyframes slider {
+    from{
+        transform: translateX(0);
+    }
+    to{
+        transform: translateX(-100%);
+    }
+}
+.cardsdiv:hover .cardslider{
+    animation-play-state: paused;
+
+}
+
+.widthcard:hover{
+    border: 2px solid blue;
+}
+.cardslider2{
+    position: relative;
+    left: 700px;
+}
+.homebacha{
+    margin-left: 200px;
+}
